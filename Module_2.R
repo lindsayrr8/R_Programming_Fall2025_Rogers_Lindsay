@@ -13,7 +13,7 @@ myMean(assignment2)
 
 ### Gives error message: object 'assignment' not found
 
-### Issue 1: 'assignment' != 'assignment2'; 'assignment' is undefined
+### Issue 1: 'assignment' should be 'assignment2'; 'assignment' is undefined
 
 ### Issue 2: 'someData' is also undefined; should take 'assignment2'
 
@@ -25,5 +25,4 @@ myMean <- function(assignment2) {
 
 # Call the function
 myMean(assignment2)
-
 
