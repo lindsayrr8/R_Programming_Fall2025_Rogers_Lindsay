@@ -1,7 +1,7 @@
 # Assignment 3 - Analyze & Visualize Poll Data
 
 ## Description
-Takes data frame of fake 2016 U.S. presidential election poll data and computes summary statistics, visualizes results.
+Takes data frame of fake 2016 U.S. presidential election poll data (df_poll) and computes summary statistics, visualizes results.
 
 ## How to Run
 1) Open project (based on 02.R in RStudio)
