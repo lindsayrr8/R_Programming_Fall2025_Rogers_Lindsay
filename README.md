@@ -1,4 +1,4 @@
-# r-programming-assignments
+# R_Programming_Fall2025_Rogers_Lindsay
 
 Lindsay Rogers
 
