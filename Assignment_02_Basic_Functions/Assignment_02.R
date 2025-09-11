@@ -1,6 +1,4 @@
 
-########## Relevant blog post: https://rlanguagejournal.blogspot.com/2025/09/evaluating-custom-function-with-r.html
-
 # Use the vector
 assignment2 <- c(16, 18, 14, 22, 27, 17, 19, 17, 17, 22, 20, 22)
 
@@ -27,5 +25,6 @@ myMean <- function(assignment2) {
 
 # Call the function
 myMean(assignment2)
+
 
 
