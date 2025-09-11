@@ -1,6 +1,6 @@
 # r-programming-assignments
 
-Lindsay R
+Lindsay Rogers
 
 LIS 4370 (Fall 2025)
 
