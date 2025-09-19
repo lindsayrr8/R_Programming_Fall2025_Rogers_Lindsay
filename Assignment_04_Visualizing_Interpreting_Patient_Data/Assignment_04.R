@@ -1,4 +1,6 @@
 
+### Link to relevant blog post: https://rlanguagejournal.blogspot.com/2025/09/module-4-visualizing-and-interpreting.html
+
 # Define vectors converting categorical strings to numeric codes
 Frequency     <- c(0.6, 0.3, 0.4, 0.4, 0.2, 0.6, 0.3, 0.4, 0.9, 0.2)
 BloodPressure <- c(103, 87, 32, 42, 59, 109, 78, 205, 135, 176)
@@ -95,6 +97,7 @@ text(df_example$Num_Visits, df_example$Blood_Pressure,
 # Use linear regression to add a line to the plot
 model <- lm(Blood_Pressure ~ Num_Visits, data = df_example)
 abline(model, col = "red", lwd = 2)
+
 
 
 
