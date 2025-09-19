@@ -1,5 +1,7 @@
 # Assignment 4 - Visualizing and Interpreting Hospital Patient Data
 
+### [Relevant blog post](https://rlanguagejournal.blogspot.com/2025/09/module-4-visualizing-and-interpreting.html)
+
 ## Description
 Takes patient data measures in the form of several vectors and creates visualizations to compare the data.
 
@@ -10,6 +12,3 @@ Takes patient data measures in the form of several vectors and creates visualiza
 
 ## Packages - (none)
 ## Data - Source: made up; provided by assignment submission criteria
-
-## [Relevant blog post](https://rlanguagejournal.blogspot.com/2025/09/module-4-visualizing-and-interpreting.html)
-
