@@ -3,7 +3,7 @@
 ### [Relevant blog post](https://rlanguagejournal.blogspot.com/2025/09/module-4-visualizing-and-interpreting.html)
 
 ## Description
-Takes patient data measures in the form of several vectors and creates visualizations to compare the data.
+Takes patient data measures related to blood pressure and creates visualizations to compare the data.
 
 ## How to Run
 1) Open project (based on 02.R in RStudio)
