@@ -59,3 +59,42 @@ hist(
   main = "Histogram of Blood Pressure"
 )
 
+
+### Example of a better organized data set
+
+
+# Create new data frame with example data
+df_example <- data.frame(
+  PatientID      = c("Patient 1", "Patient 2", "Patient 3"),
+  Blood_Pressure = c(80, 100, 180),
+  Num_Visits     = c(1, 2, 4),
+  stringsAsFactors = FALSE
+)
+
+# Inspect
+df_example
+
+
+# Create simple scatterplot
+plot(df_example$Num_Visits, df_example$Blood_Pressure,
+     xlab = "Number of Visits",
+     ylab = "Blood Pressure",
+     main = "Blood Pressure vs. Number of Visits",
+     pch = 19,         
+     col = "blue",
+     xaxt = "n")
+
+# Ensure x axis shows only whole number visits
+axis(side = 1, at = 1:4)
+
+# Add labels for each point
+text(df_example$Num_Visits, df_example$Blood_Pressure, 
+     labels = df_example$PatientID, 
+     pos = 3, cex = 0.8)
+
+# Use linear regression to add a line to the plot
+model <- lm(Blood_Pressure ~ Num_Visits, data = df_example)
+abline(model, col = "red", lwd = 2)
+
+
+
