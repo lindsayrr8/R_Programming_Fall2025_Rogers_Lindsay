@@ -3,7 +3,7 @@
 ### [Relevant blog post](https://rlanguagejournal.blogspot.com/2025/09/module-5-matrix-algebra-in-r.html)
 
 ## Description
-Defines and computes inverse and determinants for two matrices.
+Defines and attempts to compute inverse and determinant for two matrices.
 
 ## How to Run
 1) Open project (based on 02.R in RStudio)
