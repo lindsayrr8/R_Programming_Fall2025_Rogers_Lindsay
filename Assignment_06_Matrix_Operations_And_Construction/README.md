@@ -1,6 +1,6 @@
 # Assignment 6 - Matrix Operations and Construction
 
-### [Relevant blog post]()
+### [Relevant blog post](https://rlanguagejournal.blogspot.com/2025/10/module-6-matrix-operations-and.html)
 
 ## Description
 Creates four matrices of differing dimensions and performs some matrix computations.
