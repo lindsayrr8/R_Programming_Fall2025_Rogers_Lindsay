@@ -3,7 +3,7 @@
 ### [Relevant blog post]()
 
 ## Description
-Defines and attempts to compute inverse and determinant for two matrices.
+Creates four matrices of differing dimensions and performs some matrix computations.
 
 ## How to Run
 1) Open project (based on 02.R in RStudio)
@@ -12,5 +12,3 @@ Defines and attempts to compute inverse and determinant for two matrices.
 
 ## Packages - (none)
 ## Data - Source: made up; provided by assignment submission criteria
-
-
