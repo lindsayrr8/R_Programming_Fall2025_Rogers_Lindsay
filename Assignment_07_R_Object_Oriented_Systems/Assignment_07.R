@@ -41,3 +41,7 @@ s4_obj <- new("student_s4", name = "Myself", age = 28, GPA = 3.9)
 # Print statements for each type of object (s3 and s4)
 print(s3_obj)
 print(s4_obj)
+
+# Check whether object is S3 or S4 using function
+isS4(s4_obj)
+isS4(s3_obj)
