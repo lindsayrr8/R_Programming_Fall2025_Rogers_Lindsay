@@ -1,6 +1,6 @@
 # Assignment 7 - Exploring R's Object Oriented Systems
 
-### [Relevant blog post]()
+### [Relevant blog post](https://github.com/lindsayrr8/R_Programming_Fall2025_Rogers_Lindsay/tree/main/Assignment_07_R_Object_Oriented_Systems)
 
 ## Description
 Experiments with some basic R functions for data analysis using R's native tools, dataset: mtcars, and S3 and S4 type objects.
