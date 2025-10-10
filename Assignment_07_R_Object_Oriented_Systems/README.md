@@ -3,7 +3,7 @@
 ### [Relevant blog post]()
 
 ## Description
-Experiments with some basic R functions for data analysis using R's native tools and dataset: mtcars.
+Experiments with some basic R functions for data analysis using R's native tools, dataset: mtcars, and S3 and S4 type objects.
 
 ## How to Run
 1) Open project (based on 02.R in RStudio)
