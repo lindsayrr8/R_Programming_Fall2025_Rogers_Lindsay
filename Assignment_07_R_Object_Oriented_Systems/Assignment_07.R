@@ -45,3 +45,14 @@ print(s4_obj)
 # Check whether object is S3 or S4 using function
 isS4(s4_obj)
 isS4(s3_obj)
+
+# Multiple options for testing type of object
+
+# Using typeof()
+typeof(s3_obj)
+typeof(s4_obj)
+# Using str()
+str(s3_obj)
+str(s4_obj)
+
+
