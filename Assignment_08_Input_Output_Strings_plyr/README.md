@@ -11,6 +11,6 @@ Reads and extracts names from a sample data set and writes them to csv.
 3) Outputs (plots/tables) are produced in the console, can be saved locally if applicable.
 
 ## Packages -
-plyr
+- plyr
 ## Data - Source:
-sample data set, provided in Assignment_08 repository files.
+Sample data set, provided in Assignment_08 repository files.
