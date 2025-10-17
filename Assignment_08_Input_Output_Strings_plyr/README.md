@@ -1,4 +1,4 @@
-# Assignment 7 - Exploring R's Object Oriented Systems
+# Assignment 8 - Input/Output, String Manipulation, and the plyr Package
 
 ### [Relevant blog post]()
 
