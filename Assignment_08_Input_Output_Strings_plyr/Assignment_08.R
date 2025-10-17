@@ -60,3 +60,7 @@ gender_mean
 
 # Confirm the files gender_mean.txt, i_students.csv, and i_students_full.csv exist in your working directory
   getwd()
+  
+# Check whether each file exists in the working directory
+file.exists("gender_mean.txt", "i_students.csv", "i_students_full.csv")
+
