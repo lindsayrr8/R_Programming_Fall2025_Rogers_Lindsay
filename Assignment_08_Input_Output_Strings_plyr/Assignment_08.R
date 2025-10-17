@@ -23,6 +23,9 @@ gender_mean <- ddply(
   GradeAverage = mean(Grade, na.rm = TRUE)
 )
 
+# View result
+gender_mean
+
 # Write the grouped means to a text file
   write.table(
     gender_mean,
@@ -36,6 +39,9 @@ gender_mean <- ddply(
     student6,
     grepl("i", Name, ignore.case = TRUE)
   )
+
+  # view result
+  i_students
   
 # Extract just the names and write them to a CSV
   write.csv(
@@ -54,4 +60,3 @@ gender_mean <- ddply(
 
 # Confirm the files gender_mean.txt, i_students.csv, and i_students_full.csv exist in your working directory
   getwd()
-  
