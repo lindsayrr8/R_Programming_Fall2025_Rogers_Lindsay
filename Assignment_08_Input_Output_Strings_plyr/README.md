@@ -10,5 +10,5 @@ Extracts names from a sample data set and writes them to csv.
 2) Run all lines (or source the script)
 3) Outputs (plots/tables) are produced in the console, can be saved locally if applicable.
 
-## Packages - (none)
+## Packages - plyr
 ## Data - Source: 
