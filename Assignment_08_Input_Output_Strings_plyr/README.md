@@ -3,7 +3,7 @@
 ### [Relevant blog post]()
 
 ## Description
-Extracts names from a sample data set and writes them to csv.
+Reads and extracts names from a sample data set and writes them to csv.
 
 ## How to Run
 1) Open project (based on 02.R in RStudio)
@@ -11,4 +11,4 @@ Extracts names from a sample data set and writes them to csv.
 3) Outputs (plots/tables) are produced in the console, can be saved locally if applicable.
 
 ## Packages - plyr
-## Data - Source: 
+## Data - Source: sample data set, provided in Assignment_08 repository files.
