@@ -2,6 +2,7 @@
 ### [Relevant blog post]()
 
 ## Description
+Imports a data set of turnip prices from the game Animal Crossing New Horizons and produces six visualizations to analyze pricing trends using base R, lattice, and ggplot2.
 
 ## How to Run
 1) Open project (based on 02.R in RStudio)
@@ -9,5 +10,7 @@
 3) Outputs (plots/tables) are produced in the console, can be saved locally if applicable.
 
 ## Packages
-- 
+- ggplot2, lattice
+
 ## Data - Source:
+stevedata - "turnips" (installation included with code)
