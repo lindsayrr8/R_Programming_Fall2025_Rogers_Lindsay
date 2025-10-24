@@ -2,7 +2,7 @@
 ### [Relevant blog post](https://rlanguagejournal.blogspot.com/2025/10/module-9-visualizations-with-r-using.html)
 
 ## Description
-Imports a data set of turnip prices from the game Animal Crossing New Horizons and produces six visualizations to analyze pricing trends using base R, lattice, and ggplot2.
+Imports a data set of turnip prices from the game Animal Crossing: New Horizons and produces six visualizations to analyze pricing trends using base R, lattice, and ggplot2.
 
 ## How to Run
 1) Open project (based on 02.R in RStudio)
