@@ -1,5 +1,5 @@
 # Assignment 9 - Visualization in R Using Base R, Lattice, and ggplot2
-### [Relevant blog post]()
+### [Relevant blog post](https://rlanguagejournal.blogspot.com/2025/10/module-9-visualizations-with-r-using.html)
 
 ## Description
 Imports a data set of turnip prices from the game Animal Crossing New Horizons and produces six visualizations to analyze pricing trends using base R, lattice, and ggplot2.
