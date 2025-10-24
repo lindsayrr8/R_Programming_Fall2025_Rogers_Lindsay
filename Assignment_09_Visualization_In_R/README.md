@@ -12,6 +12,7 @@ Imports a data set of turnip prices from the game Animal Crossing New Horizons a
 ## Packages
 - ggplot2
 - lattice
+- stevedata
 
 ## Data - Source:
 stevedata - "turnips" (installation included with code)
