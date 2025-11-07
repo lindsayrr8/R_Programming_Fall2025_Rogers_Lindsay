@@ -78,4 +78,5 @@ corrected_tukey <- function(x) {
 corrected_tukey(test_mat)
 
 
+# For defensive programming, add: ensure 'x' is a numeric matrix; provide error messages if conditions aren't met
 
