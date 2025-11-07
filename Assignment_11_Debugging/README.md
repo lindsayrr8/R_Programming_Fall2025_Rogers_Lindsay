@@ -1,4 +1,4 @@
-# Assignment 9 - Visualization in R Using Base R, Lattice, and ggplot2
+# Assignment 11 - Debugging and Defensive Programming in R
 ### [Relevant blog post]()
 
 ## Description
