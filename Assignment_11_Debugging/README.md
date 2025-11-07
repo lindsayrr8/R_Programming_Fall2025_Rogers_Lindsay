@@ -1,5 +1,5 @@
 # Assignment 11 - Debugging and Defensive Programming in R
-### [Relevant blog post]()
+### [Relevant blog post](https://rlanguagejournal.blogspot.com/2025/11/module-11-debugging-and-defensive.html)
 
 ## Description
 Demonstrates debugging in R by fixing a function that flags matrix rows as outliers using element-wise "&" instead of "&&".
