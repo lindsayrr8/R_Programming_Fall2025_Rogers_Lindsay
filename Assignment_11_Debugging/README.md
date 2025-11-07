@@ -2,6 +2,7 @@
 ### [Relevant blog post]()
 
 ## Description
+Demonstrates debugging in R by fixing a function that flags matrix rows as outliers using element-wise "&" instead of "&&".
 
 
 ## How to Run
@@ -13,4 +14,3 @@
 - None
 ## Data - Source:
 - None
-
