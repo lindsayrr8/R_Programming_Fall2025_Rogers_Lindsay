@@ -1,0 +1,63 @@
+---
+title: "R Markdown Example Document"
+author: "Lindsay R"
+date: "2025-11-14"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction to R Markdown
+
+An R Markdown document is a convenient way to combine formatted written text with chunks of code, easily creating an organized report. This can be output as HTML, PDF, or an MS Word document.
+
+## Loading a data set
+
+You can load in a data set as you would outside of an R markdown document:
+
+```{r}
+data(mtcars)
+```
+
+## Generating a summary of a data set
+
+As well as generate a summary of a data set as you would outside of an R Markdown document:
+
+```{r}
+summary(mtcars)
+```
+
+## Including Plots
+
+You can also include plots as in this example which plots the variables "weight" and "mpg" from the mtcars data set:
+
+```{r}
+plot(
+mtcars$wt, mtcars$mpg,
+xlab = "Weight (1000 lbs)",
+ylab = "Miles Per Gallon",
+main = "Fuel Efficiency vs. Vehicle Weight"
+)
+```
+
+## LaTeX Math Expressions
+
+Along with plain text and plots, you can also include math expressions like this linear equation:
+
+$$
+y = mx + b
+$$
+Or this equation for the area of a circle using LaTeX syntax:
+
+$A = \pi r^2$.
+
+
+
+## Conclusion
+
+Using R Markdown to create a report document can be a concise, well organized option rather than typing out or combining traditional reports. Doing so omits the need to format code and plots while dragging them into an external document in another program. With R Markdown documents, everything is in one place, and is already formatted to accommodate both coding and presenting the results of coding. This can be helpful in professional environments where technical findings must be translated into written words and images in an understandable way for non-technical collaborators.
+
+
+
